@@ -33,3 +33,5 @@ Spring Cloud Data Flow Example with Kafka-binder
 
 ###### 10) Strat & Deploy Stream 
 > stream deploy --name log-data
+###### Guia Docker 
+[GUIA](https://docs.confluent.io/3.2.2/installation/docker/docs/quickstart.html)
